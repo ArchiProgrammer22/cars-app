@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">WELCOME!</string>
+    <string name="signButton">SIGN IN</string>
+    <string name="live_video_button">live video</string>
+    <string name="or_text">or</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="data_not_valid">The entered fields is empty!</string>
+    <string name="user_not_found">User not found!</string>
+    <string name="hello_username">Hello,</string>
+    <string name="log_out">Log Out</string>
+    <string name="stopwatch">Data updated %1$d seconds ago</string>
+    <string name="invalid_password">Invalid password!</string>
+</resources>
